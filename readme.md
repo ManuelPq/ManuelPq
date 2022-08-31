@@ -2,18 +2,18 @@
 ___
 #####  Actualmente me dedico a:
 
-###### Como Creativo:
-- Diseño Grafico.
-- Identidad de marca.
-- Consultoría & Estrategia
-- Diseño web a medida, creatividad y eficacia, autogestionablesen los puedes editar tus contenidos.
-
 ######  Como Programador :
 - Desarrollo web en WordPress desde front y back más personalizado.
 - Desarrollo proyectos a medida en WordPress. con el objetivo de aportar soluciones que requieren un conocimiento sobre PHP y páginas orientadas a plantillas. 
 - Desarrollo de módulos para Prestashop. Desarrollo de tiendas online.  Customizado de Temas y Programación a medida de módulos para Prestashop 1.6 y 1.7.
 - Realizando complementos personalizados 👉🏻 [Plugins](https://github.com/ManuelPq), muchos de los cuales no son publicos, ya que se realizan para clientes concretos.
 - Programación PHP 
+
+###### Como Creativo:
+- Diseño Grafico.
+- Identidad de marca.
+- Consultoría & Estrategia
+- Diseño web a medida, creatividad y eficacia, autogestionablesen los puedes editar tus contenidos.
 ___
 
 ###### PONERSE EN MARCHA Y CRECER
