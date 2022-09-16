@@ -24,4 +24,4 @@ ___
 
 
 Aquellos que han tenido la experiencia de haber visto la Tierra desde el espacio,
-y para los miles que la verán ...sin duda les cambiara la perspectiva de ver las cosas cotidianas. 
+y para los miles que la verán ...sin duda regresan con otra perspectiva de ver las cosas cotidianas. 
