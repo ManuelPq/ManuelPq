@@ -20,6 +20,6 @@ ___
 #####  ¿Hablamos?   <a href="https://" target="blank"><img align="center" src="https://manuelpiquer.es/wp-content/uploads/2021/11/ManuelPiquer_Animated.png" alt="https://manuelpiquer.es" height="30" width="30" /> Visita mi Web </a> | <a href="https://linkedin.com/in/ManuelPiquer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Manuel Piquer" height="30" width="40" /> linkedin </a> | <a href="https://manuelpiquer.es/contacto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Contacto Manuel Piquer" height="30" width="40" /> Contacto </a>
 
 Aquellos que han tenido la experiencia de haber visto la Tierra desde el espacio,
-y para los cientos y quizás miles que la verán ...sin duda cambiaran la perspectiva. 
+y para los cientos y quizás miles que la verán ...sin duda cambiaran la perspectiva de las cosas cotidianas. 
 
-       💖 Las cosas que compartimos, son mucho más valiosas que las que nos separan. 💖
+             💖 Las cosas que compartimos, son mucho más valiosas que las que nos separan. 💖
