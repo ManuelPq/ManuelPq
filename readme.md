@@ -18,14 +18,13 @@ Para mi ser creativo es como haber visto la Tierra desde el espacio ...sin duda,
 - Identidad de marca.
 - Consultoría & Estrategia
 - Diseño web a medida, creatividad y eficacia.
-- Creativo en construcion de eventos para empresa.
+- Creativo en construción de eventos para empresa.
 - Diseño de Stands para feria 
 ___
 
 ###### PONERSE EN MARCHA Y CRECER
 #####  ¿Hablamos?   <a href="https://" target="blank"><img align="center" src="https://manuelpiquer.es/wp-content/uploads/2021/11/ManuelPiquer_Animated.png" alt="https://manuelpiquer.es" height="30" width="30" /> Visita mi Web </a> | <a href="https://linkedin.com/in/ManuelPiquer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Manuel Piquer" height="30" width="40" /> linkedin </a> | <a href="https://manuelpiquer.es/contacto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Contacto Manuel Piquer" height="30" width="40" /> Contacto </a>
 
-Ser creativo es como haber visto la Tierra desde el espacio ...sin duda, ser creativo es, cambiar el punto de vista de las cosas cotidianas hacia otra perspectiva y aportar soluciones.
 
 
 
