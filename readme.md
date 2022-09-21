@@ -2,7 +2,7 @@
 ___
 ##### Me defino como una persona creativa
 
-Para mi ser creatvio es como haber visto la Tierra desde el espacio ...sin duda, ser creativo es, cambiar el punto de vista de las cosas cotidianas hacia otra perspectiva y aportar soluciones.
+Para mi ser creativo es como haber visto la Tierra desde el espacio ...sin duda, ser creativo es, cambiar el punto de vista de las cosas cotidianas hacia otra perspectiva y aportar soluciones.
 
 #####  Actualmente me dedico a:
 
