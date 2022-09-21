@@ -11,7 +11,7 @@ Para mi ser creativo es como haber visto la Tierra desde el espacio ...sin duda,
 - Desarrollo proyectos a medida en WordPress. con el objetivo de aportar soluciones que requieren un conocimiento sobre PHP y páginas orientadas a plantillas. 
 - Desarrollo de tiendas online para Prestashop. Customizado de Temas y Programación a medida de módulos para Prestashop 1.6 y 1.7.
 - Realizando complementos personalizados 👉🏻 [Plugins](https://github.com/ManuelPq?tab=repositories), muchos de los cuales no son publicos, ya que se realizan para clientes.
-- Programación PHP, creacion de paginas autogestionables en los puedes editar tus contenidos.
+- Programación PHP a medida, creación de paginas web autogestionables, para intranet con panel backend en los puedes editar tus contenidos.
 
 ###### Como Creativo:
 - Diseño Grafico.
