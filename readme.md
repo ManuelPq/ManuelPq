@@ -1,5 +1,9 @@
 ### Mi nombre es <a href="https://" target="blank">  Manuel Piquer  <img align="center" src="https://manuelpiquer.es/wp-content/uploads/2021/11/ManuelPiquer_Animated.png" alt="https://manuelpiquer.es" height="30" width="30" /></a>
 ___
+##### Me defino como una persona creativa
+
+Para mi ser creatvio es como haber visto la Tierra desde el espacio ...sin duda, ser creativo es, cambiar el punto de vista de las cosas cotidianas hacia otra perspectiva y aportar soluciones.
+
 #####  Actualmente me dedico a:
 
 ######  Como Programador :
@@ -14,6 +18,8 @@ ___
 - Identidad de marca.
 - Consultoría & Estrategia
 - Diseño web a medida, creatividad y eficacia.
+- Creativo en construcion de eventos para empresa.
+- Diseño de Stands para feria 
 ___
 
 ###### PONERSE EN MARCHA Y CRECER
