@@ -7,7 +7,7 @@ Para mi ser creativo es sin duda, cambiar el punto de vista de las cosas cotidia
 #####  Actualmente me dedico a:
 
 ######  Como Programador :
-- Desarrollo web en WordPress desde front y back más personalizado.
+- Desarrollo web en WordPress desde front y back más personalizado con Elementor Builder y Crocoblock.
 - Desarrollo proyectos a medida en WordPress. con el objetivo de aportar soluciones que requieren un conocimiento sobre PHP y páginas orientadas a plantillas. 
 - Desarrollo de tiendas online para Prestashop. Customizado de Temas y Programación a medida de módulos para Prestashop 1.6 y 1.7.
 - Realizando complementos personalizados 👉🏻 [Plugins](https://github.com/ManuelPq?tab=repositories), muchos de los cuales no son publicos, ya que se realizan para clientes.
