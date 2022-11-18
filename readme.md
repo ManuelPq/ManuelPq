@@ -3,6 +3,7 @@ ___
 ##### Me defino como una persona creativa
 
 Para mi ser creativo es sin duda, cambiar el punto de vista de las cosas cotidianas hacia otra perspectiva y aportar soluciones.
+Abierto a cambios vertiginosos con negocios y tecnologías en rápida evolución. Siempre tengo sed de aprender y emprender nuevas cosas emocionantes y desafíos emocionantes. Siempre trabajo el enfoque, la determinación, la energía y el conocimiento para lograr un nuevo proyecto desde cero.😊
 
 #####  Actualmente me dedico a:
 
